@@ -14,7 +14,7 @@ light_red = (255,0,0)
 green = (34,177,76)
 light_green = (0,255,0)
 
-blue = (0,0,255)
+blue = (0,0,250)
 
 yellow = (200,200,0)
 light_yellow = (255,255,0)
