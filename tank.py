@@ -8,15 +8,15 @@ pygame.init()
 white = (255,255,255)
 black = (0,0,0)
 
-red = (190,0,0)
-light_red = (255,0,0)
+red = (190,1,1)
+light_red = (255,5,5)
 
-green = (34,177,76)
+green = (30,177,76)
 light_green = (0,255,0)
 
-blue = (0,0,250)
+blue = (44,3,250)
 
-yellow = (200,200,0)
+yellow = (200,210,1)
 light_yellow = (255,255,0)
 
 grey = (103,120,126)
